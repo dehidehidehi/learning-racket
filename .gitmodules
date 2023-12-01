@@ -1,6 +1,6 @@
-[submodule "gui-001"]
-	path = gui-001
-	url = ./gui-001
-[submodule "mahjong"]
-	path = mahjong
-	url = ./mahjong
+[submodule "racket-gui-101"]
+	path = racket-gui-101
+	url = https://github.com/dehidehidehi/racket-gui-101.git
+[submodule "racket-mahjong"]
+	path = racket-mahjong
+	url = https://github.com/dehidehidehi/racket-mahjong.git
