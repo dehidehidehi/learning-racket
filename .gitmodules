@@ -1,0 +1,6 @@
+[submodule "gui-001"]
+	path = gui-001
+	url = ./gui-001
+[submodule "mahjong"]
+	path = mahjong
+	url = ./mahjong
